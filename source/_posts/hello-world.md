@@ -9,6 +9,8 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 
 ``` bash
 $ hexo new "My New Post"
+
+
 ```
 
 More info: [Writing](https://hexo.io/docs/writing.html)
@@ -17,6 +19,8 @@ More info: [Writing](https://hexo.io/docs/writing.html)
 
 ``` bash
 $ hexo server
+
+
 ```
 
 More info: [Server](https://hexo.io/docs/server.html)
@@ -25,6 +29,8 @@ More info: [Server](https://hexo.io/docs/server.html)
 
 ``` bash
 $ hexo generate
+
+
 ```
 
 More info: [Generating](https://hexo.io/docs/generating.html)
@@ -33,6 +39,8 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 
 ``` bash
 $ hexo deploy
+
+
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
